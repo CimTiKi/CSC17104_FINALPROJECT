@@ -4,6 +4,9 @@
 2. Lê Thanh Tâm - 22127374
 3. Phạm Trần Yến Quyên - 22127357
 
+## Project Planning: 
+> https://docs.google.com/spreadsheets/d/1MDiKBS8gD1Ezh1S9l3zuttoTM5WwTTquaWsYc9syCYg/edit?usp=sharing 
+
 ## About the Project:
 ### Dataset:
 - Data type: Tabular, Time-Series
